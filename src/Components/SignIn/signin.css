@@ -1,0 +1,13 @@
+.Tilt-inner{
+	display:flex;
+	justify-content: center;
+}
+
+.Tilt-inner main{
+	border:1px solid #333333;
+	border-radius: .25rem;
+	color:black;
+	opacity: 1;
+
+	
+}
